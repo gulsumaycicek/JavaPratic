@@ -1,4 +1,4 @@
-package day07;
+package ArabaProjesi;
 
 
 public class Araba {// POJO : planing old java object->modal class

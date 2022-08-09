@@ -39,7 +39,7 @@ public class C05_Pratık {
         double vızeOran = scanner.nextDouble() / 100;
 
 
-        System.out.println("fınal notunu gırınız");
+         System.out.println("fınal notunu gırınız");
         double fınal = scanner.nextDouble();
         System.out.println("fınal sınavı ıcın hesaplama yuzdesını gırınız");
         double fınalOran = scanner.nextDouble() / 100;
